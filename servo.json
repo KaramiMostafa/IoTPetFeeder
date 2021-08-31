@@ -1,0 +1,6 @@
+{
+    "dev_type": "servo",
+    "dev_id": "BB1",
+    "desc": "servo for food dispenser",
+    "rc_address": "http://localhost:8181/catalog/"
+}

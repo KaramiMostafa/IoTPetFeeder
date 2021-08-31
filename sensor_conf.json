@@ -1,0 +1,6 @@
+{
+     "dev_type": "sensor",
+     "device_id": "BB1",
+     "desc": "weight sensor",
+     "rc_address": "http://localhost:8181/catalog/"
+}

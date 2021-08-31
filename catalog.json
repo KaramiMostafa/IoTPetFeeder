@@ -1,0 +1,22 @@
+{
+    "devices": [
+        {
+            "dev_id": "BB1",
+            "sensor_topic": "BB1/weight/",
+            "servo_topic": "servo/BB1/",
+            "ts_url": "https://api.thingspeak.com/update?api_key=O0F8K9UDB5COWB2M&field1="
+        },
+        {
+            "dev_id": "BB2",
+            "sensor_topic": "BB2/weight/",
+            "servo_topic": "servo/BB1/",
+            "ts_url": "https://api.thingspeak.com/update?api_key=O0F8K9UDB5COWB2M&field1="
+        }
+    ],
+    "services": {
+        "servo_url": "http://localhost:8383/servo/",
+        "broker_address": "mqtt.eclipseprojects.io",
+        "broker_port": 1883,
+        "mqtt_listening_topic": "+/weight/"
+    }
+}
