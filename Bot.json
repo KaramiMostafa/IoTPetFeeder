@@ -1,6 +1,6 @@
 {
     "client_id":"telegram_app_1234",
     "rc_address": "http://localhost:8181/catalog/",
-    "token": "1043957052:AAEeJoQtDF5rJQDIoYb0NFAPpWRfCVV1fbw",
+    "token": "Enter your token",
     "ip_address": "localhost"
 }
